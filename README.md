@@ -1,4 +1,7 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md7u&show_icons=true&locale=en" alt="md7u" /></p>
+<h1 align="left">
+Celeron User (Call me MidMid)
+</h1>
+
 <p align="center">
   
   [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=4078c0)](https://t.me/M7roid)
