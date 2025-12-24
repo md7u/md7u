@@ -13,7 +13,7 @@ Celeron User (Call me MidMid)
 
 - Working on: {[**`Desind GNU/Linux`**](desind-linux.github.io)}
 
-- Learning: {[**`Java`**](www.java.com)}, {[**`JS`**](wwww.javascript.com)}, {[**`Python`**](python.org)}, {[**`INI`**](en.wikipedia.org/wiki/INI_file)}, {[**`Toml`**](toml.io)}, {[**`QML`**](doc.qt.io/qt-6/qmlreference.html)}, {[**`C`**](www.c-language.org/)}/{[**`C++`**](isocpp.org/)}, {[**`HTML`**](www.w3.org/html/)}+{[**`CSS`**](www.w3.org/Style/CSS/Overview.en.html)}
+- Learning: {[**`Java`**](www.java.com)}, {[**`JS`**](wwww.javascript.com)}/{[**`TS`**](www.typescriptlang.org/)}, {[**`Python`**](python.org)}, {[**`INI`**](en.wikipedia.org/wiki/INI_file)}, {[**`Toml`**](toml.io)}, {[**`QML`**](doc.qt.io/qt-6/qmlreference.html)}, {[**`C`**](www.c-language.org/)}/{[**`C++`**](isocpp.org/)}, {[**`HTML`**](www.w3.org/html/)}+{[**`CSS`**](www.w3.org/Style/CSS/Overview.en.html)}
 
 - Looking to collaborate on: {[**`Hyprland`**](hypr.land)}, {[**`Wayland`**](wayland.freedesktop.org)}, {[**`Bash`**](www.gnu.org/software/bash/bash.html)} (idk Why [**`:0`**](creativecommons.org))
 
