@@ -10,7 +10,7 @@ Celeron User (Call me MidMid)
 
 </p>
 
-- Working on: {[**`Cudane Linux`**](https://github.com/md7u/Cudane)}.
+- Working on: {[**`Cudane`**](https://github.com/md7u/Cudane)}.
 
 - Learning: {[**`Rust`**](https://rust-lang.org)}, {[**`Java`**](www.java.com)}, {[**`JS`**](wwww.javascript.com)}/{[**`TS`**](www.typescriptlang.org/)}, {[**`Python`**](python.org)}, {[**`INI`**](en.wikipedia.org/wiki/INI_file)}, {[**`Toml`**](toml.io)}, {[**`QML`**](doc.qt.io/qt-6/qmlreference.html)}, {[**`C`**](www.c-language.org/)}/{[**`C++`**](isocpp.org/)}, {[**`HTML`**](www.w3.org/html/)}+{[**`CSS`**](www.w3.org/Style/CSS/Overview.en.html)}.
 
