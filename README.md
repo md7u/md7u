@@ -10,7 +10,7 @@ Celeron User (My Laptop is Lagging)
 
 </p>
 
-- Working on: {[**`Cudane`**](https://github.com/Cudane/Cudane)}.
+- Working on: {[**`Cudane`**](https://github.com/Cudane)}.
 
 - Learning: {[**`Rust`**](https://rust-lang.org)}, {[**`Java`**](www.java.com)}, {[**`JS`**](wwww.javascript.com)}/{[**`TS`**](www.typescriptlang.org/)}, {[**`Python`**](python.org)}, {[**`HTML`**](www.w3.org/html/)}+{[**`CSS`**](www.w3.org/Style/CSS/Overview.en.html)}.
 
