@@ -17,7 +17,7 @@
 
 `▐▀` `-` `▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌`
 
-- Name: {[**`Mohammed D. Mahmoud`**](en.wikipedia.org/wiki/Muhammad_(name))}.
+- Name: {[**`Mohammed`**](en.wikipedia.org/wiki/Muhammad_(name))}.
 - Age: {[**`16`**](en.wikipedia.org/wiki/16_(number))}
 - Working on: {[**`Cudane`**](https://github.com/Cudane)}.
 - Learning: {[**`Rust`**](https://rust-lang.org)}, {[**`Java`**](www.java.com)}, {[**`JS`**](wwww.javascript.com)}/{[**`TS`**](www.typescriptlang.org/)}, {[**`Python`**](python.org)}, {[**`HTML`**](www.w3.org/html/)}+{[**`CSS`**](www.w3.org/Style/CSS/Overview.en.html)}.
