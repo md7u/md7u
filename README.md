@@ -7,17 +7,17 @@
  ╚═════╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═══╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ 
 ```
 
+`▐▀` `-` `▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌`
+
 </html>
 <p align="center">
   
-  [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=4078c0)](https://t.me/M7rid)
-  [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=4078c0)](https://discord.com/invite/sVdmwUd2pz)
-  [![Mastodon](https://img.shields.io/badge/Mastodon-0D1117?style=for-the-badge&logo=mastodon&logoColor=4078c0)](https://mastodon.social/@myden)
+[![Telegram](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=telegram&logoColor=4078c0)](https://t.me/M7rid)
+[![Discord](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=discord&logoColor=4078c0)](https://discord.com/invite/sVdmwUd2pz)
+[![Mastodon](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mastodon&logoColor=4078c0)](https://mastodon.social/@myden)
 
 </p>
 </html>
-
-`▐▀` `-` `▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌`
 
 - Name: {[**`Mohammed`**](en.wikipedia.org/wiki/Muhammad_(name))}.
 - Age: {[**`16`**](en.wikipedia.org/wiki/16_(number))}
